@@ -1,14 +1,7 @@
 body{
-    background-color: crimson;
+    background-color: rgb(246, 93, 38);
+    
 }
-
 h1{
-    background-color: gray;
-}
-
-label{
-    background-color: grey;
-}
-button{
-    background-color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }

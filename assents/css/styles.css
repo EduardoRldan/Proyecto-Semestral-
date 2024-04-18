@@ -1,15 +1,21 @@
 body{
-    background-color: beige;
+    background-color: white;
 }
 
 h1{
     font-family: 'Courier New', Courier, monospace;
     display:flex;
     justify-content: center;
+    color:red;
+    background-color: black;
+    border-radius: 19%;
 }
 
 h2{
     font-family: 'Courier New', Courier, monospace;
     display: flex;
     justify-content: center;
+    color: red;
+    background-color: black;
+    border-radius: 15%;   
 }
