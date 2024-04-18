@@ -1,8 +1,6 @@
 body{
-    background-color:rgb(255, 255, 255);
-    
+    background-image: url(/assents/img/fondo5.jpg);
+    background-size: 120%;
+    background-attachment: fixed;
 
-}
-ul{
-    
 }

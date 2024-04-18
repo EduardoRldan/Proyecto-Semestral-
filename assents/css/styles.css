@@ -1,21 +1,29 @@
 body{
-    background-color: white;
-}
+    background-image: url(/assents/img/fondo4.jpg);
+    background-size: 120%;
+    background-attachment: fixed;
 
+}
+.card{
+    background-color: rgb(120, 8, 8);
+    color: white;
+}
+.card{
+    background-color: rgb(120, 8, 8);
+}
 h1{
-    font-family: 'Courier New', Courier, monospace;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     display:flex;
     justify-content: center;
-    color:red;
-    background-color: black;
+    color : white;
     border-radius: 19%;
+    background-color: black;
 }
 
 h2{
-    font-family: 'Courier New', Courier, monospace;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     display: flex;
     justify-content: center;
-    color: red;
-    background-color: black;
+    color: white;
     border-radius: 15%;   
 }
