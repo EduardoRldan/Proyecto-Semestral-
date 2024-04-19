@@ -7,9 +7,12 @@ body{
 .card{
     background-color: rgb(120, 8, 8);
     color: white;
+    display: inline-block;
+    alt: 90px;
 }
 .card{
     background-color: rgb(120, 8, 8);
+    color: white;
 }
 h1{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;

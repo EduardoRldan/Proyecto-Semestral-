@@ -1,7 +1,13 @@
 body{
-    background-color: rgb(246, 93, 38);
+    background-image: url(/assents/img/fondo4.jpg);
+    background-size: 120%;
+    background-attachment: fixed;
     
 }
 h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    color: white;
+    justify-content: center;
 }
+
