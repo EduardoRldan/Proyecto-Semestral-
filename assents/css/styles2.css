@@ -2,5 +2,12 @@ body{
     background-image: url(/assents/img/fondo4.jpg);
     background-size: 120%;
     background-attachment: fixed;
-
+}
+h1{
+    background-color: black;
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    justify-content: center;
+    border-radius: 19%;
 }
