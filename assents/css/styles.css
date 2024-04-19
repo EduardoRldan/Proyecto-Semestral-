@@ -20,7 +20,7 @@ h1{
     justify-content: center;
     color : white;
     border-radius: 19%;
-    background-color: black;
+    background-color: rgb(36,36,36);
 }
 
 h2{
@@ -28,5 +28,9 @@ h2{
     display: flex;
     justify-content: center;
     color: white;
-    border-radius: 15%;   
+    border-radius: 15%;
+    background-color: rgb(36,36,36);
+}
+head{
+    background-color: rgb(36,36,36);
 }
