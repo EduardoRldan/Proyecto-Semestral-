@@ -1,0 +1,17 @@
+body{
+    background-image:url(/assents/img/fondo4.jpg);
+    background-size: 100%;
+    background-attachment: fixed;
+}
+h1{
+    justify-content: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    background-color: black;
+    border-radius: 15%;
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    justify-content: center;
+}
