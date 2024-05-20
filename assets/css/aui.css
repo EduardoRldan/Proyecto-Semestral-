@@ -1,8 +1,6 @@
 body{
     display: flex;
-    justify-content: center;
-    align-items: center;
-    background-image:url(/assents/img/fondo4.jpg);
+    background-image:url(/assets/img/fondo4.jpg);
     background-size: 100%;
     background-attachment: fixed;
     min-height: 100vh;
