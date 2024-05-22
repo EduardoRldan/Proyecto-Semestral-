@@ -1,36 +1,31 @@
-body{
+/* General styles */
+body {
     background-image: url(/assets/img/fondo8.1.jpg);
     background-size: 120%;
     background-attachment: fixed;
-
 }
-.card{
+
+/* Card styles */
+.card {
     background-color: rgb(120, 8, 8);
     color: white;
     display: inline-block;
-    alt: 90px;
-}
-.card{
-    background-color: rgb(120, 8, 8);
-    color: white;
-}
-h1{
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    display:flex;
-    justify-content: center;
-    color : white;
-    border-radius: 19%;
-    background-color: rgb(36,36,36);
+    height: 90px; /* Asumiendo que 'alt' era un error tipográfico y querías decir 'height' */
 }
 
-h2{
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+/* Heading styles */
+h1, h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     display: flex;
     justify-content: center;
     color: white;
-    border-radius: 15%;
-    background-color: rgb(36,36,36);
+    background-color: rgb(36, 36, 36);
 }
-head{
-    background-color: rgb(36,36,36);
+
+h1 {
+    border-radius: 19%;
+}
+
+h2 {
+    border-radius: 15%;
 }
