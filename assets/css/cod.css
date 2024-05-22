@@ -3,11 +3,18 @@ body{
     background-size: 100%;
     min-height: 100vh;
 }
-h1{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-color: black;
-    color: white;
-    display: flex;
-    border-radius: 19%;
+h2{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color:white;
+    background-size: 25px 5px;
+    background-size: 50% 50%;
+    
+}
+p{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     background-color:white;
+    background-size: 25px 5px;
+    background-size: 50% 50%;
+    
 }
 
 *{
