@@ -1,19 +1,42 @@
 body{
     background-image:url(/assets/img/fondo8.1.jpg);
     background-size: 100%;
-    background-attachment: fixed;
+    min-height: 100vh;
 }
-h1{
-    justify-content: center;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: white;
+h1{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color: black;
-    border-radius: 15%;
+    color: white;
+    display: flex;
+    border-radius: 19%;
 }
-p{
-    text-align: right;
-    color: white;
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-color: black;
-    
+}
+.wrapper{
+    margin: 150px auto;
+    width: 70%;
+}
+
+img{
+    max-width: 340px;
+    float: right;
+    border: 3px solid #fff;
+    border-radius: 10px;
+    margin-right: 15px;
+}
+
+.text-box{
+    color: #fff;
+}
+
+.text-box h3{
+    font-size: 42%;
+}
+
+.text-box p{
+    font-size: 16px;
 }
