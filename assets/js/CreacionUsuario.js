@@ -1,6 +1,7 @@
 {
-    "name" : "user-creation-script";
-    "version" : "1.0.0";
-    "description": "A  simple script to creater users";
-    
-}
+    "name" ; "user-creation-script",
+    "description"; "A  simple script to creater users",
+    "main" ; "CreacionUsuario.js",
+    "script"; {
+        "start "ñ.js";
+    }}
