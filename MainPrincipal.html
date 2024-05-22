@@ -6,58 +6,100 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <title>Bienvenido a MegaGames</title>
     <link rel="stylesheet" href="./assets/css/MainPrincipal.css">
-    
 </head>
 <body>
   <!--Barra de Navegación de la pagina-->
-  <nav class="navbar navbar-expand-lg bg-body-tertiary">
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid">
-      <a class="navbar-brand" href="IniciarSesion.html">Iniciar Sesion</a>
+      <a class="navbar-brand" href="IniciarSesion.html">Iniciar Sesión</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav">
-          <a class="nav-link active" aria-current="page" href="CreacionUsuario.html">Creacion Usuario</a>
-          <a class="nav-link" href="Perifericos.html">Perifericos</a>
+          <a class="nav-link active" aria-current="page" href="CreacionUsuario.html">Creación Usuario</a>
+          <a class="nav-link" href="Perifericos.html">Periféricos</a>
         </div>
       </div>
     </div>
   </nav>
-    <!--H1 ya centrado en la pagina-->
+
+  <!-- Encabezado principal centrado -->
+  <div class="container text-center mt-5">
     <h1>Bienvenidos a MegaGames</h1>
-    
     <h2>Juegos Disponibles</h2>
-<!--Aqui deberia de ir bloques de imaganes demostrando los juegos disponibles-->
-<!--carbox1--> <!--Ya hecho-->
-<div class="card1" style="width: 15rem;">
-  <img src="/assets/img/cod2.jpg" class="card-img-top" alt="90px">
-  <div class="card-body">
-    <h5 class="card-title">Call Of Duty 2</h5>
-    <p class="card-text">La Segunda Edicion de uno de los mejores juegos aclamados por la critica.</p>
-    <a href="cod.html" class="btn btn-primary">Ver detalles</a>
   </div>
-</div>
-<!--cardbox2-->
-<div class="card2" style="width: 15rem;">
-  <img src="/assets/img/assasa1.jpg" class="card-img-top" alt="100px">
-  <div class="card-body">
-    <h5 class="card-title">Assassin´s Creed</h5>
-    <p class="card-text">Sumerjete en la piel de Altair Ibn-La'Ahad, siendo un asesino en los años 1191 D.C.</p>
-    <a href="assasins.html" class="btn btn-primary">Ver detalles</a>
+
+  <!-- Sección de Juegos Disponibles -->
+  <div class="container">
+    <div class="row">
+      <!-- Card 1 -->
+      <div class="col-md-4 mb-4">
+        <div class="card" style="width: 18rem;">
+          <img src="/assets/img/cod2.jpg" class="card-img-top" alt="Call Of Duty 2">
+          <div class="card-body">
+            <h5 class="card-title">Call Of Duty 2</h5>
+            <p class="card-text">La Segunda Edición de uno de los mejores juegos aclamados por la crítica.</p>
+            <a href="cod.html" class="btn btn-primary">Ver detalles</a>
+          </div>
+        </div>
+      </div>
+      <!-- Card 2 -->
+      <div class="col-md-4 mb-4">
+        <div class="card" style="width: 18rem;">
+          <img src="/assets/img/assasa1.jpg" class="card-img-top" alt="Assassin´s Creed">
+          <div class="card-body">
+            <h5 class="card-title">Assassin´s Creed</h5>
+            <p class="card-text">Sumérgete en la piel de Altair Ibn-La'Ahad, siendo un asesino en los años 1191 D.C.</p>
+            <a href="assasins.html" class="btn btn-primary">Ver detalles</a>
+          </div>
+        </div>
+      </div>
+      <!-- Card 3 -->
+      <div class="col-md-4 mb-4">
+        <div class="card" style="width: 18rem;">
+          <img src="/assets/img/needforspeed.jpg" class="card-img-top" alt="Need For Speed Most Wanted">
+          <div class="card-body">
+            <h5 class="card-title">Need For Speed Most Wanted</h5>
+            <p class="card-text">Maneja por las calles de Rockport a altas velocidades, vence a los 15 mejores de la blacklist y huye de la policía en este increíble juego de carreras.</p>
+            <a href="needforspeed.html" class="btn btn-primary">Ver detalles</a>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
-</div>
-<br>
-<!--carbox3-->
-<div class="card3" style="width: 15rem;">
-  <img src="/assets/img/needforspeed.jpg" class="card-img-top" alt="100px">
-  <div class="card-body">
-    <h5 class="card-title">Need For Speed Most Wanted</h5>
-    <p class="card-text">Maneja por la calles de Rockport a altas velocidades, vence a los 15 mejores de la blacklist y hulle de la policia en este increible juego de Carreras.</p>
-    <a href="needforspeed.html"  class="btn btn-primary">Ver detalles</a>
-  </div>
-</div>
-<!--carbox4-->
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+
+  <!-- Footer -->
+  <footer class="bg-light text-center text-lg-start mt-4">
+    <div class="container p-4">
+      <div class="row">
+        <div class="col-lg-6 col-md-12 mb-4 mb-md-0">
+          <h5 class="text-uppercase">MegaGames</h5>
+          <p>Tu tienda de videojuegos favorita.</p>
+        </div>
+        <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+          <h5 class="text-uppercase">Enlaces</h5>
+          <ul class="list-unstyled mb-0">
+            <li><a href="IniciarSesion.html" class="text-dark">Iniciar Sesión</a></li>
+            <li><a href="CreacionUsuario.html" class="text-dark">Creación Usuario</a></li>
+            <li><a href="Perifericos.html" class="text-dark">Periféricos</a></li>
+          </ul>
+        </div>
+        <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+          <h5 class="text-uppercase">Contacto</h5>
+          <ul class="list-unstyled mb-0">
+            <li><a href="mailto:info@megagames.com" class="text-dark">info@megagames.com</a></li>
+            <li><a href="tel:+123456789" class="text-dark">+1 234 567 89</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+      © 2024 MegaGames
+    </div>
+  </footer>
+
+  <!-- Scripts de Bootstrap -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 </body>
 </html>
