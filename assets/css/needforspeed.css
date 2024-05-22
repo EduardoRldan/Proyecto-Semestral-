@@ -3,7 +3,7 @@ body{
     background-size: 100%;
     min-height: 100vh;
 }
-h1{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+h1{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: black;
     color: white;
     display: flex;
@@ -14,7 +14,7 @@ h1{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sa
     margin:0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family:  'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .wrapper{
     margin: 150px auto;

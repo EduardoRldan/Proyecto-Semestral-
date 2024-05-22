@@ -1,19 +1,18 @@
-/* General styles */
+
 body {
     background-image: url(/assets/img/fondo8.1.jpg);
     background-size: 120%;
     background-attachment: fixed;
 }
 
-/* Card styles */
+
 .card {
     background-color: rgb(120, 8, 8);
     color: white;
     display: inline-block;
-    height: 90px; /* Asumiendo que 'alt' era un error tipográfico y querías decir 'height' */
+    height: 90px;
 }
 
-/* Heading styles */
 h1, h2 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     display: flex;

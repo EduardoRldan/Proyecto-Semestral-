@@ -1,18 +1,58 @@
-body{
+/* General styles */
+body {
     background-image: url(/assets/img/fondo8.1.jpg);
     background-size: 120%;
     background-attachment: fixed;
-    
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-h1{
+
+/* Heading styles */
+h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     display: flex;
     color: white;
     justify-content: center;
     background-color: rgb(36, 36, 36);
-    
+    padding: 20px;
+    margin: 0;
+    border-radius: 10px;
 }
-div{
+
+/* Container styles */
+.container {
     background-color: rgb(36, 36, 36);
     color: white;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+/* Form styles */
+.form-label {
+    margin-top: 10px;
+}
+
+.form-control {
+    margin-bottom: 15px;
+}
+
+/* Button styles */
+.btn {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: rgb(120, 8, 8);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.btn:hover {
+    background-color: rgb(150, 10, 10);
 }
