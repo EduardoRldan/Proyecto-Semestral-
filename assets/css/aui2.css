@@ -4,3 +4,33 @@ body{
     background-size: 75;
     min-height: 100vh;
 }
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.wrapper{
+    margin: 150px auto;
+    width: 70%;
+}
+
+img{
+    max-width: 340px;
+    float: right;
+    border: 3px solid #fff;
+    border-radius: 10px;
+    margin-right: 15px;
+}
+
+.text-box{
+    color: #fff;
+}
+
+.text-box h3{
+    font-size: 42%;
+}
+
+.text-box p{
+    font-size: 16px;
+}

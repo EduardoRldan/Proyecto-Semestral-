@@ -1,8 +1,6 @@
 body{
-    display: flex;
     background-image:url(/assets/img/fondo4.jpg);
     background-size: 100%;
-    background-attachment: fixed;
     min-height: 100vh;
 }
 h1{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
