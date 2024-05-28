@@ -1,3 +1,7 @@
+//Script para la creacion de Usuario
+
+
+//funcion de registro de usuario
 function register(){
     const username = document.getElementById('reg-username').value;
     const email = document.getElementById('reg-email').value;
@@ -13,7 +17,7 @@ function register(){
         }
         user.push({username, email, password});
         localStorage.setItem('users',JSON.stringify(user));
-        alert('Porfavor clikclea en las casillas');
+        alert('Porfavor pinche en las casillas');
     }
-    
+
 }
