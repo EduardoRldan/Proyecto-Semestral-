@@ -1,8 +1,15 @@
 body{
     background-image:url(/assets/img/fondo8.1.jpg);
-    background-size: 75;
+    background-size: 97%;
     min-height: 100vh;
 }
+
+*aui2{
+    color: white;
+}
+
+
+
 *{
     margin:0;
     padding: 0;
