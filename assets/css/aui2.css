@@ -1,27 +1,27 @@
-body{
-    background-image:url(/assets/img/fondo8.1.jpg);
-    background-size: 97%;
+body {
+    background-image: url(/assets/img/fondo8.1.jpg);
+    background-size: 96%;
     min-height: 100vh;
 }
 
-*aui2{
-    color: white;
+h2, h4, p, ul,h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white !important;
 }
 
-
-
-*{
-    margin:0;
+* {
+    margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-.wrapper{
+
+.wrapper {
     margin: 150px auto;
     width: 70%;
 }
 
-img{
+img {
     max-width: 340px;
     float: right;
     border: 3px solid #fff;
@@ -29,14 +29,14 @@ img{
     margin-right: 15px;
 }
 
-.text-box{
+.text-box {
     color: #fff;
 }
 
-.text-box h3{
+.text-box h3 {
     font-size: 42%;
 }
 
-.text-box p{
+.text-box p {
     font-size: 16px;
 }
