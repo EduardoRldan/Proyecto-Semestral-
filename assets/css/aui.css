@@ -1,13 +1,10 @@
 body{
     background-image:url(/assets/img/fondo8.1.jpg);
-    background-size: 100%;
+    background-size: 96%;
     min-height: 100vh;
 }
-h1{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-color: black;
+h2,p,h4,ul{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: white;
-    display: flex;
-    border-radius: 19%;
 }
 
 *{
