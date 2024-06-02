@@ -19,7 +19,6 @@ h1, h2 {
     display: flex;
     justify-content: center;
     color: white;
-    background-color: rgba(36, 36, 36, 0.8);
     padding: 10px;
     border-radius: 5px;
     margin: 10px 0;
