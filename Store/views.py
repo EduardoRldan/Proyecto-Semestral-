@@ -1,80 +1,43 @@
-from django.shortcuts import render 
-from .models import Genero, Usuario 
+from django.shortcuts import render, get_list_or_404, redirect
+from django.http import HttpResponse
+from .models import Videojuegos
+from .models import VideojuegosForm
+#filtro de lista de videojuegos
+def lista_videojuegos(request):
+    Videojuegos = Videojuegos.object.filter([
+        'Assasin/s Creed',
+        'Call of Duty',
+        'Need for Speed: Most Wanted'
+    ])
 
-from .forms import GeneroFrom
+def detalle_videojuegos(request, id):
+    Videojuegos = get_list_or_404(Videojuegos, id=id)
+    return render (request, 'videojuegos/detalle_videojuego.html', {'videojuego':Videojuegos})
 
-def index(request) : 
-    usuario = Usuario.object.all()
-    context={"usuario":usuario}
-    return render(request, "Usuario/index.html",context)
-
-def crud (request):
-    usuario = Usuario.object.all()
-    context = {"usuarios":usuario}
-    return render (request, "usuarios/usuarios_list.html",context)
-
-def usuariosAdd(request):
-    if request.method != "POST" :
-        generos = Genero.objects.all()
-        context={"generos":generos}
-        return render (request, "usuarios/usuarios_add.html",context)
-    
+def nuevo_videojuegos(request):
+    if request.method == 'POST':
+        form = Videojuegos(request.POST)
+        if form.is_valid():
+            form.save()
+            return redirect('lista_videojuegos')
     else:
-        generos = Genero.objects.all()
-
-        rut = request.POST["rut"]
-        nombre = request.POST["nombre"]
-        aPaterno = request.POST["paterno"]
-        aMaterno = request.POST["materno"]
-        fechaNac = request.POST ["fechaNac"]
-        genero = request.POST ["genero"]
-        telefono = request.POST ["telefono"]
-        email = request.POST ["email"]
-        direccion = request.POST ["direccion"]
-        activo = "1"
-
-
-        objGenero = Genero.objects.get(id_genero = genero)
-        obj=Usuario.objects.create(
-
-            rut = rut,
-            nombre = nombre,
-            apellido_paterno = aPaterno,
-            apellido_materno = aMaterno,
-            fecha_nacimiento = fechaNac, 
-            id_genero = objGenero, 
-            telefono = telefono, 
-            email = email, 
-            direccion = direccion, 
-            activo =1 
-        )
-        obj.save()
-        context = {"mensaje":"ok, datos guardados...","generos":generos}
-        return render (request, "usuarios/usurios_add.html", context)
+        form = VideojuegosForm()
+        return render(request, 'videojuegos/nuevo_videojuego.html', {'form':form})
     
-    def usuarios_del(resquest, pk): 
-        context = {}
-    try:
-        usuario = Usuario.objects.get(rut=pk)
-
-        Usuario.delete()
-
-        mensaje = "Eliminado Satisfactioramente"
-        usuario = Usuario.objects.all()
-        context = {"usuario": Usuario, "mensaje": mensaje}
-        return render(request, "usuario/usuario_list.html",context)
-    
-    def usuario_findEdit(request, pk):
-        if pk != "":
-            Usuario=Usuario.objects.get(rut=pk)
-            generos = Genero.objects.all()
-
-            print(type(Usuario.id_genero.genero))
-
-            context = {'usuario': usuario, 'generos':generos}
-
-            if usuario:
-                return render (request, "usuario/usuario_edit.html",context)
-            else: 
-                context={"mensaje": "Error, rut no existente"
-                         }
+def editar_videojuegos(request):
+    Videojuegos = get_list_or_404(Videojuegos, id=id)
+    if request.method == 'POST':
+        form = VideojuegosForm(request.POST, istance=Videojuegos)
+        if form.is_valid():
+            form.save()
+            return redirect('lista_videojuegos')
+        else:
+            form = VideojuegosForm(instance=Videojuegos)
+            return render (request, 'videojuegos/editar_videjuego.html', {'form':form})
+        
+def eliminar_videojuegos(request,id):
+    Videojuegos = get_list_or_404(Videojuegos, id=id)
+    if request.method == 'POST':
+        Videojuegos.delete()
+        return redirect('lista_videojuegos')
+    return render(request, 'videojuegos/eliminar_videojuego.html', {'videojuego':Videojuegos})

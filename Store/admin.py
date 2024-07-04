@@ -1,5 +1,6 @@
 from django.contrib import admin
+from .models import Videojuegos
 
 # Register your models here.
-admin.site.resgister(Genero)
-admin.site.resgister(Usuario)
+class VideojuegosAdmin(admin.ModelAdmin):
+    
