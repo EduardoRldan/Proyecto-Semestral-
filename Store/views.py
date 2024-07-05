@@ -1,4 +1,5 @@
 from django.shortcuts import render, get_list_or_404, redirect
+from django.contrib.auth.decorators import login_required
 from django.http import HttpResponse
 from .models import Videojuegos
 from .models import VideojuegosForm
@@ -41,3 +42,5 @@ def eliminar_videojuegos(request,id):
         Videojuegos.delete()
         return redirect('lista_videojuegos')
     return render(request, 'videojuegos/eliminar_videojuego.html', {'videojuego':Videojuegos})
+
+
