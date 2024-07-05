@@ -1,10 +1,8 @@
-from django.urls import path 
-from .import views
+from django.urls import path
+from .views import registro_usuario, inicio_sesion, cerrar_sesion
 
 urlpatterns = [
-    path('', views.lista_videojuegos, name='lista_videojuegos'),
-    path('<int:id>/', views.detalle_videojuegos, name='detale_videojuegos'),
-    path('nuevo/', views.nuevo_videojuegos, name='nuevo_videojuegos'),
-    path('<int:id>/editar/', views.editar_videojuegos, name='editar_videojuegos'),
-    path('<int:id/eliminar/>', views.eliminar_videojuegos, name='eliminar_videojuegos')
+    path ('registro/', registro_usuario, name='registro'),
+    path ('login/', inicio_sesion,name='login'),
+    path('logout/', cerrar_sesion, name='logout'),
 ]

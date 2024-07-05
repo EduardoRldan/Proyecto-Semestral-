@@ -44,3 +44,4 @@ def eliminar_videojuegos(request,id):
     return render(request, 'videojuegos/eliminar_videojuego.html', {'videojuego':Videojuegos})
 
 
+
