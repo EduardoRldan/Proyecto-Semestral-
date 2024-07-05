@@ -1,5 +1,5 @@
 body {
-    background-image: url(/assets/img/fondo8.1.jpg);
+    background-image: url(../img/fondo8.1.jpg);
     background-size: 96%;
     min-height: 100vh;
 }
