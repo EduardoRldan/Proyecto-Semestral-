@@ -1,6 +1,6 @@
 
 body {
-    background-image: url(../img/fondo8.1.jpg);
+    background-image: url(/Static/img/fondo8.1.jpg);
     background-size: 120%;
     background-attachment: fixed;
 }
