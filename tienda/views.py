@@ -20,7 +20,7 @@ def registro(request):
 
 def lista_videojuegos(request):
     videojuegos = Videojuego.objects.all()
-    return render(request, 'tienda/lista_videojuegos.html', {'videojuegos': Videojuego})
+    return render(request, 'tienda/lista_videojuegos.html', {'videojuegos': videojuegos})
 
 def detalle_videojuego(request, id):
     videojuego = get_object_or_404(Videojuego, id=id)
