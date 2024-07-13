@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lista de Videojuegos</title>
+</head>
+<body>
+    <h1>Lista de Videojuegos</h1>
+    <ul>
+        {% for videojuego in videojuegos %}
+            <li>
+                <a href="{% url 'detalle_videojuego' videojuego.id %}">{{ videojuego.nombre }}</a>
+            </li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
