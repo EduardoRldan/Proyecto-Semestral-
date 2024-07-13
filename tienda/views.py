@@ -1,9 +1,10 @@
 from django.shortcuts import render, redirect, get_object_or_404
 from django.contrib.auth.decorators import login_required
-from .models import Videojuego, Carrito, CarritoItem
-from .forms import VideojuegoForm
+from django.contrib.auth.models import User
 from django.contrib.auth import login, authenticate
 from django.contrib.auth.forms import UserCreationForm
+from .models import Videojuego, Carrito, CarritoItem
+from .forms import VideojuegoForm
 
 def registro(request):
     if request.method == 'POST':
@@ -15,15 +16,15 @@ def registro(request):
             return redirect('lista_videojuegos')
     else:
         form = UserCreationForm()
-    return render(request, 'videojuegos/registro.html', {'form': form})
+    return render(request, 'tienda/registro.html', {'form': form})
 
 def lista_videojuegos(request):
     videojuegos = Videojuego.objects.all()
-    return render(request, 'videojuegos/lista_videojuegos.html', {'videojuegos': videojuegos})
+    return render(request, 'tienda/lista_videojuegos.html', {'videojuegos': Videojuego})
 
 def detalle_videojuego(request, id):
     videojuego = get_object_or_404(Videojuego, id=id)
-    return render(request, 'videojuegos/detalle_videojuego.html', {'videojuego': videojuego})
+    return render(request, 'tienda/detalle_videojuego.html', {'videojuego': videojuego})
 
 @login_required
 def nuevo_videojuego(request):
@@ -34,7 +35,7 @@ def nuevo_videojuego(request):
             return redirect('lista_videojuegos')
     else:
         form = VideojuegoForm()
-    return render(request, 'videojuegos/nuevo_videojuego.html', {'form': form})
+    return render(request, 'tienda/nuevo_videojuego.html', {'form': form})
 
 @login_required
 def editar_videojuego(request, id):
@@ -46,7 +47,7 @@ def editar_videojuego(request, id):
             return redirect('lista_videojuegos')
     else:
         form = VideojuegoForm(instance=videojuego)
-    return render(request, 'videojuegos/editar_videojuego.html', {'form': form})
+    return render(request, 'tienda/editar_videojuego.html', {'form': form})
 
 @login_required
 def eliminar_videojuego(request, id):
@@ -54,7 +55,7 @@ def eliminar_videojuego(request, id):
     if request.method == 'POST':
         videojuego.delete()
         return redirect('lista_videojuegos')
-    return render(request, 'videojuegos/eliminar_videojuego.html', {'videojuego': videojuego})
+    return render(request, 'tienda/eliminar_videojuego.html', {'videojuego': videojuego})
 
 @login_required
 def agregar_al_carrito(request, id):
@@ -69,7 +70,7 @@ def agregar_al_carrito(request, id):
 def ver_carrito(request):
     carrito = get_object_or_404(Carrito, usuario=request.user)
     items = CarritoItem.objects.filter(carrito=carrito)
-    return render(request, 'videojuegos/ver_carrito.html', {'items': items})
+    return render(request, 'tienda/ver_carrito.html', {'items': items})
 
 @login_required
 def eliminar_del_carrito(request, id):
@@ -78,4 +79,4 @@ def eliminar_del_carrito(request, id):
     if request.method == 'POST':
         item.delete()
         return redirect('ver_carrito')
-    return render(request, 'videojuegos/eliminar_del_carrito.html', {'item': item})
+    return render(request, 'tienda/eliminar_del_carrito.html', {'item': item})
