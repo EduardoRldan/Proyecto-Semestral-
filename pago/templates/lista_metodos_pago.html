@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>Lista de Métodos de Pago</h2>
+<a href="{% url 'crear_metodo_pago' %}">Crear Nuevo Método de Pago</a>
+<ul>
+    {% for metodo in metodos_pago %}
+        <li>
+            {{ metodo.nombre }} 
+            <a href="{% url 'editar_metodo_pago' metodo.pk %}">Editar</a> 
+            <a href="{% url 'eliminar_metodo_pago' metodo.pk %}">Eliminar</a>
+        </li>
+    {% endfor %}
+</ul>
+{% endblock %}

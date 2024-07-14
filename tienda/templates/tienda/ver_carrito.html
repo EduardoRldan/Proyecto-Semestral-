@@ -1,15 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Carrito de Compras</title>
+    <title>Carrito</title>
 </head>
 <body>
-    <h1>Carrito de Compras</h1>
+    <h1>Tu Carrito</h1>
     <ul>
         {% for item in items %}
-            <li>
-                {{ item.cantidad }} x {{ item.videojuego.nombre }}
-                <form action="{% url 'eliminar_del_carrito' item.id %}" method="post">
+            <li>{{ item.cantidad }} x {{ item.videojuego.nombre }}
+                <form method="post" action="{% url 'eliminar_del_carrito' item.id %}">
                     {% csrf_token %}
                     <button type="submit">Eliminar</button>
                 </form>

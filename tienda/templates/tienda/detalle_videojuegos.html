@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Detalle del Videojuego</title>
+</head>
+<body>
+    <h1>{{ videojuego.nombre }}</h1>
+    <img src="{{ videojuego.imagen.url }}" alt="{{ videojuego.nombre }}">
+    <p>Descripción: {{ videojuego.descripcion }}</p>
+    <p>Precio: {{ videojuego.precio }}</p>
+    <p>Desarrollador: {{ videojuego.desarrollador }}</p>
+    <p>Editor: {{ videojuego.editor }}</p>
+    <p>Fecha de Lanzamiento: {{ videojuego.fecha_lanzamiento }}</p>
+    <a href="{% url 'agregar_al_carrito' videojuego.id %}">Agregar al carrito</a>
+</body>
+</html>
