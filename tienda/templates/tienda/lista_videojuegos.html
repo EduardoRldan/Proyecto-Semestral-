@@ -9,6 +9,7 @@
         {% for videojuego in videojuegos %}
             <li>
                 <a href="{% url 'detalle_videojuego' videojuego.id %}">{{ videojuego.nombre }}</a>
+                <a href="/Static/css/juegos.css"></a>
             </li>
         {% endfor %}
     </ul>
