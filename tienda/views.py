@@ -25,7 +25,7 @@ def registro(request):
 def lista_videojuegos(request):
     try:
         videojuegos = Videojuego.objects.all()
-        return render(request, 'lista_videojuegos.html', {'videojuegos': videojuegos})
+        return render(request, 'tienda/lista_videojuegos.html', {'videojuegos': videojuegos})
     except Exception as e:
         # Esto capturará errores en la vista y te permitirá ver el error
         return render(request, 'error.html', {'error': str(e)})

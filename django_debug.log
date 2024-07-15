@@ -762,3 +762,1586 @@ File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packag
 File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\importlib\readers.py first seen with mtime 1712688618.0
 File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\importlib\resources\_itertools.py first seen with mtime 1712688618.0
 File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\conf\locale\en\__init__.py first seen with mtime 1720821123.008872
+Watching for file changes with StatReloader
+Waiting for apps ready_event.
+Apps ready_event triggered. Sending autoreload_started signal.
+Watching dir C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\pago\templates with glob **/*.
+Watching dir C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\usuarios\templates with glob **/*.
+Watching dir C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\autenticacion\templates with glob **/*.
+Watching dir C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\templates with glob **/*.
+Watching dir C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\tienda\templates with glob **/*.
+Watching dir C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\productoCategoria\templates with glob **/*.
+Watching dir C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\locale with glob **/*.mo.
+Watching dir C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\tienda\locale with glob **/*.mo.
+Watching dir C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\usuarios\locale with glob **/*.mo.
+Watching dir C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\autenticacion\locale with glob **/*.mo.
+Watching dir C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\pago\locale with glob **/*.mo.
+Watching dir C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\productoCategoria\locale with glob **/*.mo.
+(0.016) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None; alias=default
+(0.000) SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"; args=(); alias=default
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\admin\helpers.py first seen with mtime 1720821123.7379794
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\PIL\__init__.py first seen with mtime 1720823376.1157525
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\PIL\TiffTags.py first seen with mtime 1720823376.0994945
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\backends\sqlite3\__init__.py first seen with mtime 1720821131.2152638
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\DLLs\_decimal.pyd first seen with mtime 1712688662.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\asyncio\protocols.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\admin\widgets.py first seen with mtime 1720821123.7545772
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\utils\timesince.py first seen with mtime 1720821131.767964
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\multiprocessing\context.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\models\fields\reverse_related.py first seen with mtime 1720821131.3218956
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\PIL\ExifTags.py first seen with mtime 1720823375.952033
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\ctypes\__init__.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\management\commands\runserver.py first seen with mtime 1720821131.0834892
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\asyncio\coroutines.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\messages\storage\base.py first seen with mtime 1720821128.9179978
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\tienda\forms.py first seen with mtime 1720834258.9768443
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\forms\widgets.py first seen with mtime 1720821131.3794153
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\usuarios\urls.py first seen with mtime 1720840155.4430366
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\utils.py first seen with mtime 1720821131.1329153
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\quopri.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\lzma.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\models\fields\related_lookups.py first seen with mtime 1720821131.3218956
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\files\utils.py first seen with mtime 1720821131.009765
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\wsgiref\headers.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\admin\templatetags\log.py first seen with mtime 1720821125.0892367
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\templatetags\tz.py first seen with mtime 1720821131.667671
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\sqlparse\filters\others.py first seen with mtime 1720821122.338972
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\DLLs\_zoneinfo.pyd first seen with mtime 1712688662.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\loaders\cached.py first seen with mtime 1720821131.6594183
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\email\_header_value_parser.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\usuarios\models.py first seen with mtime 1720839170.849878
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\ssl.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\utils\crypto.py first seen with mtime 1720821131.718637
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\views\__init__.py first seen with mtime 1720821131.7924035
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\auth\middleware.py first seen with mtime 1720821125.6038637
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\checks\model_checks.py first seen with mtime 1720821130.9770362
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\usuarios\__init__.py first seen with mtime 1720838580.445112
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\__init__.py first seen with mtime 1720821131.009765
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\checks\compatibility\__init__.py first seen with mtime 1720821130.9850352
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\usuarios\apps.py first seen with mtime 1720838580.4379547
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\__init__.py first seen with mtime 1720821131.609939
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\re\_compiler.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\files\move.py first seen with mtime 1720821131.001476
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\messages\apps.py first seen with mtime 1720821128.9013882
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\sessions\models.py first seen with mtime 1720821129.8781765
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\models\fields\__init__.py first seen with mtime 1720821131.3056114
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\asyncio\mixins.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\checks\messages.py first seen with mtime 1720821130.9770362
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\middleware\__init__.py first seen with mtime 1720821131.5936153
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\migrations\operations\base.py first seen with mtime 1720821131.2645764
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\sessions\middleware.py first seen with mtime 1720821129.8781765
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\checks\security\__init__.py first seen with mtime 1720821130.9850352
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\loader.py first seen with mtime 1720821131.6265938
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\admin\actions.py first seen with mtime 1720821123.7216382
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\usuarios\views.py first seen with mtime 1720840137.411362
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\PIL\_deprecate.py first seen with mtime 1720823376.1157525
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\messages\api.py first seen with mtime 1720821128.9013882
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\views\generic\dates.py first seen with mtime 1720821131.8171926
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\PIL\_binary.py first seen with mtime 1720823376.1157525
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\sqlparse\filters\right_margin.py first seen with mtime 1720821122.3472738
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\models\functions\window.py first seen with mtime 1720821131.3384948
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\urls\converters.py first seen with mtime 1720821131.7006352
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\re\_constants.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\pathlib.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\autenticacion\views.py first seen with mtime 1720989353.161343
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\pkgutil.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\files\images.py first seen with mtime 1720821131.001476
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\asyncio\base_events.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\auth\forms.py first seen with mtime 1720821125.5955281
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\models\indexes.py first seen with mtime 1720821131.2890382
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\zoneinfo\_common.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\forms\models.py first seen with mtime 1720821131.3714159
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\utils\safestring.py first seen with mtime 1720821131.767964
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\getpass.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\utils\dateformat.py first seen with mtime 1720821131.7269406
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\utils\module_loading.py first seen with mtime 1720821131.7597125
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\pago\apps.py first seen with mtime 1720989783.289111
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\statistics.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\token.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\auth\apps.py first seen with mtime 1720821125.5792396
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\sqlparse\__init__.py first seen with mtime 1720821122.3060348
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\utils\cache.py first seen with mtime 1720821131.718637
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\random.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\threading.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\views\i18n.py first seen with mtime 1720821131.800746
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\sessions\base_session.py first seen with mtime 1720821129.869891
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\models\base.py first seen with mtime 1720821131.2808025
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\email\mime\base.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\fractions.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\sqlparse\filters\tokens.py first seen with mtime 1720821122.3472738
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\html\__init__.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\logging\config.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\auth\hashers.py first seen with mtime 1720821125.6035304
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\auth\models.py first seen with mtime 1720821125.612107
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\checks\urls.py first seen with mtime 1720821130.9850352
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\migrations\operations\__init__.py first seen with mtime 1720821131.2645764
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\http\multipartparser.py first seen with mtime 1720821131.5936153
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\backends\signals.py first seen with mtime 1720821131.1329153
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\files\base.py first seen with mtime 1720821130.9932518
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\DLLs\_asyncio.pyd first seen with mtime 1712688662.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\loader_tags.py first seen with mtime 1720821131.6346037
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\PIL\_imaging.cp312-win_amd64.pyd first seen with mtime 1720823376.1490433
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\contenttypes\admin.py first seen with mtime 1720821126.1858525
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\_compat_pickle.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\cache\utils.py first seen with mtime 1720821130.9522674
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\migrations\exceptions.py first seen with mtime 1720821131.2398667
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\forms\utils.py first seen with mtime 1720821131.3794153
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\asyncio\streams.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\asyncio\futures.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\utils\deconstruct.py first seen with mtime 1720821131.73523
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\admin\views\__init__.py first seen with mtime 1720821125.0892367
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\checks\security\csrf.py first seen with mtime 1720821130.9932518
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\models\lookups.py first seen with mtime 1720821131.2890382
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\socketserver.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\email\header.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\signal.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\asyncio\log.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\reprlib.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\auth\checks.py first seen with mtime 1720821125.5875268
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\admin\templatetags\admin_modify.py first seen with mtime 1720821125.081017
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\migrations\migration.py first seen with mtime 1720821131.2480924
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\admin\templatetags\admin_urls.py first seen with mtime 1720821125.081017
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\mail\__init__.py first seen with mtime 1720821131.026009
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\staticfiles\finders.py first seen with mtime 1720821130.9034846
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\checks\caches.py first seen with mtime 1720821130.9687865
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\forms\forms.py first seen with mtime 1720821131.3714159
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\utils\lorem_ipsum.py first seen with mtime 1720821131.7597125
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\locale.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\logging\handlers.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\pago\__init__.py first seen with mtime 1720989783.3031113
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\utils\duration.py first seen with mtime 1720821131.73523
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\JUEGOS\urls.py first seen with mtime 1720989747.9497418
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\backends\django.py first seen with mtime 1720821131.642876
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\views\generic\base.py first seen with mtime 1720821131.8171926
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\email\_parseaddr.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\copy.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\productoCategoria\models.py first seen with mtime 1720991176.323658
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\tienda\urls.py first seen with mtime 1720995192.3750916
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\sqlite3\dbapi2.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\typing.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\numbers.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\email\encoders.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\sysconfig.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\__init__.py first seen with mtime 1720821123.7216382
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\models\signals.py first seen with mtime 1720821131.3056114
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\asyncio\__init__.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\sites\shortcuts.py first seen with mtime 1720821130.403987
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\gzip.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\sqlparse\engine\__init__.py first seen with mtime 1720821122.330644
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\asyncio\staggered.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\wsgi.py first seen with mtime 1720821131.018008
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\admin\filters.py first seen with mtime 1720821123.7377293
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\sites\requests.py first seen with mtime 1720821130.403987
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\models\query_utils.py first seen with mtime 1720821131.3053138
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\utils\asyncio.py first seen with mtime 1720821131.7086363
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\admin\checks.py first seen with mtime 1720821123.7296393
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\staticfiles\handlers.py first seen with mtime 1720821130.9034846
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\views\debug.py first seen with mtime 1720821131.7924035
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\autenticacion\urls.py first seen with mtime 1720989584.0456824
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\importlib\_abc.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\messages\__init__.py first seen with mtime 1720821128.9011347
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\PIL\_version.py first seen with mtime 1720823376.1993978
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\asyncio\windows_utils.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\auth\backends.py first seen with mtime 1720821125.5873322
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\utils\http.py first seen with mtime 1720821131.7515101
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\utils\timezone.py first seen with mtime 1720821131.776026
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\asyncio\format_helpers.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\views\static.py first seen with mtime 1720821131.800746
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\asgiref\sync.py first seen with mtime 1720821122.6166668
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\staticfiles\apps.py first seen with mtime 1720821130.8954818
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\DLLs\_ctypes.pyd first seen with mtime 1712688662.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\sqlite3\__init__.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\utils\dates.py first seen with mtime 1720821131.7269406
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\selectors.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\models\aggregates.py first seen with mtime 1720821131.272802
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\mail\message.py first seen with mtime 1720821131.026009
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\__future__.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\models\functions\__init__.py first seen with mtime 1720821131.3218956
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\backends\base\schema.py first seen with mtime 1720821131.1494737
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\email\mime\__init__.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\sessions\exceptions.py first seen with mtime 1720821129.869891
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\utils\topological_sort.py first seen with mtime 1720821131.7761736
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\_markupbase.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\urllib\parse.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\views\generic\__init__.py first seen with mtime 1720821131.8171926
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\servers\__init__.py first seen with mtime 1720821131.1249151
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\backends\base\introspection.py first seen with mtime 1720821131.1494737
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\sqlparse\filters\output.py first seen with mtime 1720821122.338972
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\servers\basehttp.py first seen with mtime 1720821131.1249151
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\uuid.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\ctypes\_endian.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\email\parser.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\signing.py first seen with mtime 1720821130.9442675
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\management\color.py first seen with mtime 1720821131.0507348
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\models\sql\__init__.py first seen with mtime 1720821131.3384948
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\conf\urls\__init__.py first seen with mtime 1720821123.7133324
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\sqlparse\cli.py first seen with mtime 1720821122.3142822
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\tienda\__init__.py first seen with mtime 1720821243.2933035
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\backends\sqlite3\schema.py first seen with mtime 1720821131.2318668
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\thread.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\DLLs\unicodedata.pyd first seen with mtime 1712688662.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\checks\async_checks.py first seen with mtime 1720821130.9687865
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\auth\validators.py first seen with mtime 1720821125.6283784
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\shortcuts.py first seen with mtime 1720821122.8228557
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\utils\termcolors.py first seen with mtime 1720821131.767964
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\utils\translation\__init__.py first seen with mtime 1720821131.7761736
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\cache\backends\locmem.py first seen with mtime 1720821130.9604907
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\templatetags\static.py first seen with mtime 1720821131.667671
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\utils\_os.py first seen with mtime 1720821131.7086363
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\utils\__init__.py first seen with mtime 1720821131.7086363
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\checks\templates.py first seen with mtime 1720821130.9770362
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\loaders\app_directories.py first seen with mtime 1720821131.651141
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\utils\itercompat.py first seen with mtime 1720821131.7515101
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\autoreload.py first seen with mtime 1720821131.609939
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\asyncio\queues.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\asgiref\current_thread_executor.py first seen with mtime 1720821122.608661
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\context.py first seen with mtime 1720821131.6182406
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\utils\log.py first seen with mtime 1720821131.7597125
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\string.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\models\__init__.py first seen with mtime 1720821131.272802
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\migrations\operations\special.py first seen with mtime 1720821131.272802
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\models\deletion.py first seen with mtime 1720821131.2890382
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\glob.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\PIL\_util.py first seen with mtime 1720823376.1993978
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\auth\signals.py first seen with mtime 1720821125.612107
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\urllib\request.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\email\_policybase.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\operator.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\backends\base\creation.py first seen with mtime 1720821131.1411295
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\forms\formsets.py first seen with mtime 1720821131.3714159
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\opcode.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\usuarios\forms.py first seen with mtime 1720840318.5461435
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\encodings\__init__.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\cache\__init__.py first seen with mtime 1720821130.9442675
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\email\charset.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\utils\hashable.py first seen with mtime 1720821131.7434864
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\backends\__init__.py first seen with mtime 1720821131.1329153
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\smartif.py first seen with mtime 1720821131.6346037
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\checks\translation.py first seen with mtime 1720821130.9770362
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\paginator.py first seen with mtime 1720821130.9360156
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\utils\numberformat.py first seen with mtime 1720821131.7597125
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\apps\registry.py first seen with mtime 1720821122.8311539
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\urllib\response.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\http\__init__.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\auth\decorators.py first seen with mtime 1720821125.5955281
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\migrations\state.py first seen with mtime 1720821131.2562847
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\views\csrf.py first seen with mtime 1720821131.7924035
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\dispatch\dispatcher.py first seen with mtime 1720821131.3547559
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\socket.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\admin\apps.py first seen with mtime 1720821123.7296393
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\backends\sqlite3\operations.py first seen with mtime 1720821131.2318668
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\ast.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\http\cookies.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\utils.py first seen with mtime 1720821131.642876
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\shutil.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\checks\registry.py first seen with mtime 1720821130.9770362
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\urllib\__init__.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\views\decorators\common.py first seen with mtime 1720821131.808956
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\sessions\backends\base.py first seen with mtime 1720821129.8864243
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\nturl2path.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\productoCategoria\apps.py first seen with mtime 1720990769.5104017
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\transaction.py first seen with mtime 1720821131.1249151
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\backends\sqlite3\client.py first seen with mtime 1720821131.2236009
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\_weakrefset.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\utils\functional.py first seen with mtime 1720821131.7434864
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\bz2.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\wsgiref\simple_server.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\asyncio\timeouts.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\forms\fields.py first seen with mtime 1720821131.3630815
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\files\locks.py first seen with mtime 1720821131.001476
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\messages\storage\__init__.py first seen with mtime 1720821128.9179978
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\management\commands\__init__.py first seen with mtime 1720821131.0507348
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\templatetags\__init__.py first seen with mtime 1720821131.6594183
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\hashlib.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\zoneinfo\_tzpath.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\admin\templatetags\admin_list.py first seen with mtime 1720821125.081017
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\heapq.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\templatetags\cache.py first seen with mtime 1720821131.66748
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\contenttypes\fields.py first seen with mtime 1720821126.193853
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\utils\formats.py first seen with mtime 1720821131.7434864
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\asyncio\taskgroups.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\DLLs\_wmi.pyd first seen with mtime 1712688662.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\email\mime\text.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\asyncio\transports.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\migrations\operations\models.py first seen with mtime 1720821131.272802
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\admin\utils.py first seen with mtime 1720821123.7462935
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\validators.py first seen with mtime 1720821130.9442675
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\auth\__init__.py first seen with mtime 1720821125.5792396
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\models\expressions.py first seen with mtime 1720821131.2890382
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\urls\conf.py first seen with mtime 1720821131.6923778
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\email\policy.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\pickle.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\backends\sqlite3\_functions.py first seen with mtime 1720821131.2236009
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\files\temp.py first seen with mtime 1720821131.009765
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\backends\base\client.py first seen with mtime 1720821131.1411295
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\__init__.py first seen with mtime 1720821131.1249151
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\asyncio\trsock.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\wsgiref\__init__.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\ctypes\wintypes.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\engine.py first seen with mtime 1720821131.6265938
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\decimal.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\forms\renderers.py first seen with mtime 1720821131.3714159
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\DLLs\_lzma.pyd first seen with mtime 1712688662.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\sessions\backends\__init__.py first seen with mtime 1720821129.8781765
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\dispatch\__init__.py first seen with mtime 1720821131.3547559
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\forms\__init__.py first seen with mtime 1720821131.3630815
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\contenttypes\__init__.py first seen with mtime 1720821126.1858525
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\asyncio\tasks.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\admin\views\main.py first seen with mtime 1720821125.0974934
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\dis.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\http\cookie.py first seen with mtime 1720821131.5853708
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\migrations\utils.py first seen with mtime 1720821131.2645764
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\utils\translation\reloader.py first seen with mtime 1720821131.7841742
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\manage.py first seen with mtime 1720821192.5665903
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\models\fields\related_descriptors.py first seen with mtime 1720821131.3218956
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\auth\password_validation.py first seen with mtime 1720821125.612107
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\backends\__init__.py first seen with mtime 1720821131.642876
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\conf\global_settings.py first seen with mtime 1720821122.8394704
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\wsgiref\util.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\PIL\ImageMode.py first seen with mtime 1720823376.0166862
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\autenticacion\apps.py first seen with mtime 1720988114.6866956
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\urllib\error.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\models\constraints.py first seen with mtime 1720821131.2808025
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\email\contentmanager.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\http\client.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\sqlparse\engine\filter_stack.py first seen with mtime 1720821122.330644
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\files\__init__.py first seen with mtime 1720821130.9932518
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\keyword.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\models\functions\text.py first seen with mtime 1720821131.3384948
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\contenttypes\models.py first seen with mtime 1720821126.193853
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\multiprocessing\process.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\defaulttags.py first seen with mtime 1720821131.6265938
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\asyncio\windows_events.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\admin\__init__.py first seen with mtime 1720821123.7216382
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\contenttypes\forms.py first seen with mtime 1720821126.193853
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\utils\text.py first seen with mtime 1720821131.767964
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\mimetypes.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\utils\inspect.py first seen with mtime 1720821131.7515101
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\hmac.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\DLLs\_bz2.pyd first seen with mtime 1712688662.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\exceptions.py first seen with mtime 1720821130.9360156
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\productoCategoria\__init__.py first seen with mtime 1720990769.5274038
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\auth\tokens.py first seen with mtime 1720821125.6203754
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\warnings.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\sites\__init__.py first seen with mtime 1720821130.3959846
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\middleware\cache.py first seen with mtime 1720821131.5936153
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\collections\abc.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\admin\sites.py first seen with mtime 1720821123.7462935
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\json\scanner.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\urls\base.py first seen with mtime 1720821131.6923778
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\DLLs\_hashlib.pyd first seen with mtime 1712688662.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\contextlib.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\views\generic\detail.py first seen with mtime 1720821131.8171926
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\queue.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\email\quoprimime.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\http\response.py first seen with mtime 1720821131.5936153
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\conf\__init__.py first seen with mtime 1720821122.8394704
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\files\uploadedfile.py first seen with mtime 1720821131.009765
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\admin\exceptions.py first seen with mtime 1720821123.7296393
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\files\storage.py first seen with mtime 1720821131.001476
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\concurrent\__init__.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\backends\utils.py first seen with mtime 1720821131.1329153
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\middleware\csrf.py first seen with mtime 1720821131.6016147
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\utils\html.py first seen with mtime 1720821131.7515101
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\loaders\base.py first seen with mtime 1720821131.651141
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\textwrap.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\admin\views\autocomplete.py first seen with mtime 1720821125.0892367
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\ipaddress.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py first seen with mtime 1720821131.6182406
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\messages\utils.py first seen with mtime 1720821128.9096622
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\_compression.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\utils\ipv6.py first seen with mtime 1720821131.7515101
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\re\_parser.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\admin\templatetags\base.py first seen with mtime 1720821125.0892367
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\backends\base.py first seen with mtime 1720821131.642876
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\admin\options.py first seen with mtime 1720821123.7462935
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\checks\security\base.py first seen with mtime 1720821130.9932518
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\models\functions\datetime.py first seen with mtime 1720821131.3302245
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\utils\datastructures.py first seen with mtime 1720821131.7269406
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\contextvars.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\asyncio\selector_events.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\sqlparse\filters\reindent.py first seen with mtime 1720821122.338972
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\email\mime\nonmultipart.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\email\feedparser.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\models\fields\related.py first seen with mtime 1720821131.3136132
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\email\mime\message.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\inspect.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\functools.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\models\query.py first seen with mtime 1720821131.2973144
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\importlib\__init__.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\backends\base\validation.py first seen with mtime 1720821131.1577458
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\pago\models.py first seen with mtime 1720990129.2139342
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\autenticacion\__init__.py first seen with mtime 1720988114.7066715
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\email\base64mime.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\tienda\views.py first seen with mtime 1721013300.2887092
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\__init__.py first seen with mtime 1720821122.8228557
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\urls\resolvers.py first seen with mtime 1720821131.7006352
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\management\base.py first seen with mtime 1720821131.04252
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\wsgiref\handlers.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\views\generic\list.py first seen with mtime 1720821131.8251925
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\multiprocessing\__init__.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\email\__init__.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\email\utils.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\models\sql\where.py first seen with mtime 1720821131.3547559
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\serializers\json.py first seen with mtime 1720821131.1164217
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\backends\base\features.py first seen with mtime 1720821131.1411295
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\http\__init__.py first seen with mtime 1720821131.5853708
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\JUEGOS\settings.py first seen with mtime 1721011436.5383072
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\DLLs\_sqlite3.pyd first seen with mtime 1712688662.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\views\defaults.py first seen with mtime 1720821131.7924035
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\calendar.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\models\fields\files.py first seen with mtime 1720821131.3056114
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\logging\__init__.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\staticfiles\management\commands\runserver.py first seen with mtime 1720821130.9197311
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\traceback.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\serializers\base.py first seen with mtime 1720821131.1080737
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\models\constants.py first seen with mtime 1720821131.2808025
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\asyncio\locks.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\messages\constants.py first seen with mtime 1720821128.9013882
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\models\functions\comparison.py first seen with mtime 1720821131.3302245
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\admin\models.py first seen with mtime 1720821123.7379794
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\serializers\__init__.py first seen with mtime 1720821131.1080737
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\views\decorators\cache.py first seen with mtime 1720821131.800746
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\datetime.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\tienda\models.py first seen with mtime 1720899965.2543142
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\exception.py first seen with mtime 1720821131.018008
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\asyncio\sslproto.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\contenttypes\views.py first seen with mtime 1720821126.2020857
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\models\functions\mixins.py first seen with mtime 1720821131.3302245
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\sqlparse\filters\__init__.py first seen with mtime 1720821122.330644
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\re\_casefix.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\sqlparse\formatter.py first seen with mtime 1720821122.3142822
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\staticfiles\management\commands\__init__.py first seen with mtime 1720821130.9197311
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\sqlparse\sql.py first seen with mtime 1720821122.322284
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\http\request.py first seen with mtime 1720821131.5936153
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\asyncio\base_futures.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\backends\base\__init__.py first seen with mtime 1720821131.1411295
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\sqlparse\engine\grouping.py first seen with mtime 1720821122.330644
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\auth\base_user.py first seen with mtime 1720821125.5875268
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\cache\backends\filebased.py first seen with mtime 1720821130.9604907
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\base.py first seen with mtime 1720821131.018008
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\loaders\__init__.py first seen with mtime 1720821131.651141
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\DLLs\_ssl.pyd first seen with mtime 1712688662.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\middleware\security.py first seen with mtime 1720821131.609939
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\views\decorators\debug.py first seen with mtime 1720821131.808956
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\library.py first seen with mtime 1720821131.6265938
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\urls\__init__.py first seen with mtime 1720821131.6923778
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\tienda\apps.py first seen with mtime 1720821243.2769876
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\difflib.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\checks\files.py first seen with mtime 1720821130.9687865
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\asyncio\base_subprocess.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\urls\exceptions.py first seen with mtime 1720821131.7006352
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\__init__.py first seen with mtime 1720821130.9279954
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\asyncio\runners.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\asgi.py first seen with mtime 1720821131.018008
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\copyreg.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\sessions\apps.py first seen with mtime 1720821129.869891
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\models\fields\json.py first seen with mtime 1720821131.3136132
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\struct.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\encodings\utf_8.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\checks\compatibility\django_4_0.py first seen with mtime 1720821130.9850352
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\pprint.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\asgiref\local.py first seen with mtime 1720821122.6166668
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\backends\ddl_references.py first seen with mtime 1720821131.1329153
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\staticfiles\views.py first seen with mtime 1720821130.9117303
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\contenttypes\apps.py first seen with mtime 1720821126.1858525
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\urls\utils.py first seen with mtime 1720821131.7006352
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\views\generic\edit.py first seen with mtime 1720821131.8251925
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\models\fields\proxy.py first seen with mtime 1720821131.3136132
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\sqlparse\exceptions.py first seen with mtime 1720821122.3142822
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\secrets.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\DLLs\_uuid.pyd first seen with mtime 1712688662.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\backends\base\operations.py first seen with mtime 1720821131.1494737
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\linecache.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\sqlparse\keywords.py first seen with mtime 1720821122.3142822
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\models\functions\math.py first seen with mtime 1720821131.3302245
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\email\headerregistry.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\checks\__init__.py first seen with mtime 1720821130.9687865
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\DLLs\_queue.pyd first seen with mtime 1712688662.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\apps\config.py first seen with mtime 1720821122.8311539
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\html\parser.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\backends\sqlite3\creation.py first seen with mtime 1720821131.2236009
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\html\entities.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\sqlparse\filters\aligned_indent.py first seen with mtime 1720821122.338972
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\types.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\contenttypes\checks.py first seen with mtime 1720821126.1858525
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\models\fields\mixins.py first seen with mtime 1720821131.3136132
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\contenttypes\management\__init__.py first seen with mtime 1720821126.7456179
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\loaders\filesystem.py first seen with mtime 1720821131.6594183
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\utils\dateparse.py first seen with mtime 1720821131.7269406
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\fnmatch.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\asyncio\threads.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\email\generator.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\JUEGOS\__init__.py first seen with mtime 1720821192.5828454
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\__init__.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\productoCategoria\admin.py first seen with mtime 1720990769.5034072
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\dataclasses.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\DLLs\select.pyd first seen with mtime 1712688662.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\templatetags\i18n.py first seen with mtime 1720821131.667671
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\DLLs\_socket.pyd first seen with mtime 1712688662.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\DLLs\_overlapped.pyd first seen with mtime 1712688662.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\encodings\aliases.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\tienda\admin.py first seen with mtime 1720821243.2769876
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\asyncio\proactor_events.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\models\enums.py first seen with mtime 1720821131.2890382
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\checks\database.py first seen with mtime 1720821130.9687865
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\exceptions.py first seen with mtime 1720821131.6265938
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\staticfiles\utils.py first seen with mtime 1720821130.9117303
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\management\__init__.py first seen with mtime 1720821131.04252
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\utils\deprecation.py first seen with mtime 1720821131.73523
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\forms\boundfield.py first seen with mtime 1720821131.3630815
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\asyncio\exceptions.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\asyncio\base_tasks.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\models\sql\query.py first seen with mtime 1720821131.3464942
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\platform.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\PIL\Image.py first seen with mtime 1720823375.9846053
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\tempfile.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\utils\version.py first seen with mtime 1720821131.7761736
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\autenticacion\admin.py first seen with mtime 1720988114.6763124
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\collections\__init__.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\models\options.py first seen with mtime 1720821131.2973144
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\utils\encoding.py first seen with mtime 1720821131.7434864
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\signals.py first seen with mtime 1720821130.9360156
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\migrations\operations\fields.py first seen with mtime 1720821131.272802
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\models\sql\subqueries.py first seen with mtime 1720821131.3464942
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\gettext.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\models\utils.py first seen with mtime 1720821131.3056114
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\models\manager.py first seen with mtime 1720821131.2973144
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\models\sql\constants.py first seen with mtime 1720821131.3464942
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\utils\connection.py first seen with mtime 1720821131.718637
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\email\message.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\files\uploadhandler.py first seen with mtime 1720821131.009765
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\backends\base\base.py first seen with mtime 1720821131.1411295
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\asyncio\constants.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\argparse.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\auth\admin.py first seen with mtime 1720821125.5792396
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\templatetags\l10n.py first seen with mtime 1720821131.667671
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\bisect.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\utils\regex_helper.py first seen with mtime 1720821131.7597125
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\asyncio\subprocess.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\cache\backends\base.py first seen with mtime 1720821130.9522674
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\apps\__init__.py first seen with mtime 1720821122.8311539
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\utils\tree.py first seen with mtime 1720821131.7761736
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\multiprocessing\reduction.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\utils\decorators.py first seen with mtime 1720821131.73523
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\utils\translation\trans_real.py first seen with mtime 1720821131.7924035
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\backends\sqlite3\features.py first seen with mtime 1720821131.2236009
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\views\decorators\__init__.py first seen with mtime 1720821131.800746
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\sqlparse\tokens.py first seen with mtime 1720821122.322284
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\conf\locale\__init__.py first seen with mtime 1720821122.855925
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\staticfiles\checks.py first seen with mtime 1720821130.9034846
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\asgiref\__init__.py first seen with mtime 1720821122.608661
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\sqlparse\lexer.py first seen with mtime 1720821122.322284
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\asyncio\events.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\views\decorators\csrf.py first seen with mtime 1720821131.808956
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\auth\management\__init__.py first seen with mtime 1720821126.144834
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\response.py first seen with mtime 1720821131.6346037
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\usuarios\admin.py first seen with mtime 1720838580.433954
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\email\_encoded_words.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\utils\autoreload.py first seen with mtime 1720821131.7183828
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\base64.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\defaultfilters.py first seen with mtime 1720821131.6182406
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\sqlparse\engine\statement_splitter.py first seen with mtime 1720821122.330644
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\serializers\python.py first seen with mtime 1720821131.1164217
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\migrations\__init__.py first seen with mtime 1720821131.2398667
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\http\server.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\tokenize.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\email\mime\multipart.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\autenticacion\models.py first seen with mtime 1720988708.4523132
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\weakref.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\enum.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\admin\templatetags\__init__.py first seen with mtime 1720821125.081017
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\mail\utils.py first seen with mtime 1720821131.026009
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\wsgi.py first seen with mtime 1720821130.9442675
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\PIL\_typing.py first seen with mtime 1720823376.1903183
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\backends\sqlite3\base.py first seen with mtime 1720821131.2236009
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\staticfiles\__init__.py first seen with mtime 1720821130.8954818
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\email\iterators.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\sessions\__init__.py first seen with mtime 1720821129.869891
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\zoneinfo\__init__.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\pago\admin.py first seen with mtime 1720989783.2811098
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\admin\decorators.py first seen with mtime 1720821123.7296393
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\checks\security\sessions.py first seen with mtime 1720821130.9932518
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\email\errors.py first seen with mtime 1712688618.0
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\re\__init__.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\sqlparse\utils.py first seen with mtime 1720821122.322284
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\backends\sqlite3\introspection.py first seen with mtime 1720821131.2318668
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\models\sql\datastructures.py first seen with mtime 1720821131.3464942
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\cache\backends\__init__.py first seen with mtime 1720821130.9522674
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\staticfiles\management\__init__.py first seen with mtime 1720821130.9117303
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\pago\templates\crear_metodo_pago.html first seen with mtime 1720990634.5357463
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\pago\templates\lista_metodos_pago.html first seen with mtime 1720990725.4246614
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\usuarios\templates\usuarios first seen with mtime 1720840743.9319503
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\usuarios\templates\usuarios\delete_user.html first seen with mtime 1720840749.8923445
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\usuarios\templates\usuarios\edit_profile.html first seen with mtime 1720840730.8667476
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\usuarios\templates\usuarios\profile.html first seen with mtime 1720840701.6010604
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\usuarios\templates\usuarios\registro.html first seen with mtime 1720840687.1237152
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\autenticacion\templates\autenticacion first seen with mtime 1720989660.0675666
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\autenticacion\templates\autenticacion\login.html first seen with mtime 1720989646.5091505
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\autenticacion\templates\autenticacion\registro.html first seen with mtime 1720989666.4487152
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\templates\.gitkeep first seen with mtime 1720240733.4672375
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\templates\assasins.html first seen with mtime 1720235019.20343
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\templates\aui1.html first seen with mtime 1720240642.7505376
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\templates\aui2.html first seen with mtime 1720240664.2929244
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\templates\CarritoCompra.html first seen with mtime 1720235200.9603157
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\templates\cod.html first seen with mtime 1720235242.744527
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\templates\CreacionUsuario.html first seen with mtime 1720235284.6636329
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\templates\IniciarSesion.html first seen with mtime 1720240688.9122849
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\templates\juegos.html first seen with mtime 1720235437.1457872
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\templates\MainPrincipal.html first seen with mtime 1720824972.850529
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\templates\Mouse Gamer De Juego Razer Deathadder Essential Negro.html first seen with mtime 1720235653.863114
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\templates\needforspeed.html first seen with mtime 1720235699.0399466
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\templates\Perifericos.html first seen with mtime 1720236175.7723646
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\templates\Set Gamer Njoytech Con Teclado, Mouse, Audífonos Y Mouse Pad Color Del Teclado Negro rojo.html first seen with mtime 1720236370.9195583
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\templates\Teclado Gamer Mecanico Rgb Aoc Gk410 Alta Gama Ergonomico Color Del Teclado Gris.html first seen with mtime 1720240731.6292453
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\tienda\templates\tienda first seen with mtime 1721007119.9206717
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\tienda\templates\tienda\detalle_videojuegos.html first seen with mtime 1720899130.399631
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\tienda\templates\tienda\editar_videojuegos.html first seen with mtime 1720899169.6139076
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\tienda\templates\tienda\eliminar_carrito.html first seen with mtime 1720899235.4054556
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\tienda\templates\tienda\eliminar_videojuego.html first seen with mtime 1720987898.5776775
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\tienda\templates\tienda\error.html first seen with mtime 1721007129.7233121
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\tienda\templates\tienda\lista_videojuegos.html first seen with mtime 1720999987.836693
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\tienda\templates\tienda\nuevo_videojuegos.html first seen with mtime 1720899148.4775586
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\tienda\templates\tienda\registro.html first seen with mtime 1720899091.9534562
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\tienda\templates\tienda\ver_carrito.html first seen with mtime 1720899217.2505765
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\productoCategoria\templates\productoCategoria first seen with mtime 1720991429.7568197
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\productoCategoria\templates\productoCategoria\crear_categoria.html first seen with mtime 1720952405.0462937
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\productoCategoria\templates\productoCategoria\crear_producto.html first seen with mtime 1720952624.4327323
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\productoCategoria\templates\productoCategoria\editar_categoria.html first seen with mtime 1720952503.0416477
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\productoCategoria\templates\productoCategoria\editar_producto.html first seen with mtime 1720952623.2658677
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\productoCategoria\templates\productoCategoria\eliminar_categoria.html first seen with mtime 1720952501.571893
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\productoCategoria\templates\productoCategoria\eliminar_producto.html first seen with mtime 1720952622.0353625
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\productoCategoria\templates\productoCategoria\lista_categoria.html first seen with mtime 1720952382.0819266
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\productoCategoria\templates\productoCategoria\lista_productos.html first seen with mtime 1720952548.668116
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\autenticacion\migrations\__init__.py first seen with mtime 1720988114.7106924
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\tienda\migrations\0001_initial.py first seen with mtime 1721001158.6672313
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\auth\migrations\0001_initial.py first seen with mtime 1720821126.152833
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\auth\migrations\0005_alter_user_last_login_null.py first seen with mtime 1720821126.1610575
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\stringprep.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\usuarios\migrations\__init__.py first seen with mtime 1720838580.4481127
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\admin\migrations\0001_initial.py first seen with mtime 1720821124.6947913
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\auth\migrations\__init__.py first seen with mtime 1720821126.1776383
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\messages\middleware.py first seen with mtime 1720821128.9096622
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\autenticacion\migrations\0001_initial.py first seen with mtime 1720988776.0331912
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\auth\migrations\0012_alter_user_first_name_max_length.py first seen with mtime 1720821126.1776383
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\auth\migrations\0002_alter_permission_name_max_length.py first seen with mtime 1720821126.152833
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\auth\migrations\0011_update_proxy_permissions.py first seen with mtime 1720821126.1693797
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\models\sql\compiler.py first seen with mtime 1720821131.3384948
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\admin\migrations\__init__.py first seen with mtime 1720821124.7031517
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\sessions\migrations\0001_initial.py first seen with mtime 1720821130.3797345
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\middleware\common.py first seen with mtime 1720821131.6016147
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\pago\migrations\0001_initial.py first seen with mtime 1720990155.0886302
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\sessions\backends\db.py first seen with mtime 1720821129.8864243
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\migrations\executor.py first seen with mtime 1720821131.2398667
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\auth\migrations\0007_alter_validators_add_error_messages.py first seen with mtime 1720821126.1610575
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\middleware\clickjacking.py first seen with mtime 1720821131.6016147
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\migrations\graph.py first seen with mtime 1720821131.2480924
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\migrations\loader.py first seen with mtime 1720821131.2480924
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\auth\migrations\0009_alter_user_last_name_max_length.py first seen with mtime 1720821126.1693797
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\contenttypes\migrations\__init__.py first seen with mtime 1720821126.7536125
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\admin\migrations\0003_logentry_add_action_flag_choices.py first seen with mtime 1720821124.7031517
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\JUEGOS\wsgi.py first seen with mtime 1720821192.5828454
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\productoCategoria\migrations\__init__.py first seen with mtime 1720990769.5354037
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\auth\migrations\0004_alter_user_username_opts.py first seen with mtime 1720821126.1610575
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\auth\migrations\0010_alter_group_name_max_length.py first seen with mtime 1720821126.1693797
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\contenttypes\migrations\0002_remove_content_type_name.py first seen with mtime 1720821126.7536125
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\auth\migrations\0006_require_contenttypes_0002.py first seen with mtime 1720821126.1610575
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\usuarios\migrations\0001_initial.py first seen with mtime 1720839237.9547896
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\auth\migrations\0003_alter_user_email_max_length.py first seen with mtime 1720821126.1610575
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\contenttypes\migrations\0001_initial.py first seen with mtime 1720821126.7456179
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\admin\migrations\0002_logentry_remove_auto_add.py first seen with mtime 1720821124.7031517
+File C:\Users\Eduar\AppData\Local\Programs\Python\Python312\Lib\encodings\idna.py first seen with mtime 1712688618.0
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\productoCategoria\migrations\0001_initial.py first seen with mtime 1720991184.8207111
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\tienda\migrations\__init__.py first seen with mtime 1720998898.0785513
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\auth\migrations\0008_alter_user_username_max_length.py first seen with mtime 1720821126.1693797
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\sessions\migrations\__init__.py first seen with mtime 1720821130.3797345
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\db\migrations\recorder.py first seen with mtime 1720821131.2562847
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\pago\migrations\__init__.py first seen with mtime 1720989783.3071098
+(0.015) SELECT "tienda_videojuego"."id", "tienda_videojuego"."nombre", "tienda_videojuego"."descripcion", "tienda_videojuego"."precio", "tienda_videojuego"."desarrollador", "tienda_videojuego"."editor", "tienda_videojuego"."imagen", "tienda_videojuego"."fecha_lanzamiento" FROM "tienda_videojuego"; args=(); alias=default
+"GET / HTTP/1.1" 200 288
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\context_processors.py first seen with mtime 1720821131.6182406
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\staticfiles\storage.py first seen with mtime 1720821130.9034846
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\messages\storage\fallback.py first seen with mtime 1720821128.9179978
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\messages\storage\cookie.py first seen with mtime 1720821128.9179978
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\messages\context_processors.py first seen with mtime 1720821128.9094453
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\auth\context_processors.py first seen with mtime 1720821125.5955281
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\sessions\serializers.py first seen with mtime 1720821129.8781765
+File C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\contrib\messages\storage\session.py first seen with mtime 1720821128.9263072
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\base.py", line 313, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\urls\resolvers.py", line 702, in resolve
+    raise Resolver404({"tried": tried, "path": new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLResolver <module 'usuarios.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\usuarios\\urls.py'> (None:None) 'usuarios/'>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) 'tienda/'>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'registro/' [name='registro']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '' [name='lista_videojuegos']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/' [name='detalle_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'nuevo/' [name='nuevo_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/editar/' [name='editar_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/eliminar/' [name='eliminar_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/' [name='ver_carrito']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/agregar/<int:id>/' [name='agregar_al_carrito']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/eliminar/<int:id>/' [name='eliminar_del_carrito']>], [<URLResolver <module 'autenticacion.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\autenticacion\\urls.py'> (None:None) 'auth/'>]], 'path': 'Static/img/fondo8.1.jpg'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <URLPattern list> (admin:admin) 'admin/'>
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\base.py", line 313, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\urls\resolvers.py", line 702, in resolve
+    raise Resolver404({"tried": tried, "path": new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLResolver <module 'usuarios.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\usuarios\\urls.py'> (None:None) 'usuarios/'>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) 'tienda/'>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'registro/' [name='registro']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '' [name='lista_videojuegos']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/' [name='detalle_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'nuevo/' [name='nuevo_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/editar/' [name='editar_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/eliminar/' [name='eliminar_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/' [name='ver_carrito']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/agregar/<int:id>/' [name='agregar_al_carrito']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/eliminar/<int:id>/' [name='eliminar_del_carrito']>], [<URLResolver <module 'autenticacion.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\autenticacion\\urls.py'> (None:None) 'auth/'>]], 'path': 'Static/img/fondo8.1.jpg'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <module 'usuarios.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\usuarios\\urls.py'> (None:None) 'usuarios/'>
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\base.py", line 313, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\urls\resolvers.py", line 702, in resolve
+    raise Resolver404({"tried": tried, "path": new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLResolver <module 'usuarios.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\usuarios\\urls.py'> (None:None) 'usuarios/'>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) 'tienda/'>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'registro/' [name='registro']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '' [name='lista_videojuegos']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/' [name='detalle_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'nuevo/' [name='nuevo_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/editar/' [name='editar_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/eliminar/' [name='eliminar_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/' [name='ver_carrito']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/agregar/<int:id>/' [name='agregar_al_carrito']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/eliminar/<int:id>/' [name='eliminar_del_carrito']>], [<URLResolver <module 'autenticacion.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\autenticacion\\urls.py'> (None:None) 'auth/'>]], 'path': 'Static/img/fondo8.1.jpg'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) 'tienda/'>
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\base.py", line 313, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\urls\resolvers.py", line 702, in resolve
+    raise Resolver404({"tried": tried, "path": new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLResolver <module 'usuarios.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\usuarios\\urls.py'> (None:None) 'usuarios/'>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) 'tienda/'>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'registro/' [name='registro']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '' [name='lista_videojuegos']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/' [name='detalle_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'nuevo/' [name='nuevo_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/editar/' [name='editar_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/eliminar/' [name='eliminar_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/' [name='ver_carrito']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/agregar/<int:id>/' [name='agregar_al_carrito']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/eliminar/<int:id>/' [name='eliminar_del_carrito']>], [<URLResolver <module 'autenticacion.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\autenticacion\\urls.py'> (None:None) 'auth/'>]], 'path': 'Static/img/fondo8.1.jpg'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <module 'autenticacion.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\autenticacion\\urls.py'> (None:None) 'auth/'>
+Not Found: /Static/img/fondo8.1.jpg
+"GET /Static/img/fondo8.1.jpg HTTP/1.1" 404 4162
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\base.py", line 313, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\urls\resolvers.py", line 702, in resolve
+    raise Resolver404({"tried": tried, "path": new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLResolver <module 'usuarios.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\usuarios\\urls.py'> (None:None) 'usuarios/'>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) 'tienda/'>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'registro/' [name='registro']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '' [name='lista_videojuegos']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/' [name='detalle_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'nuevo/' [name='nuevo_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/editar/' [name='editar_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/eliminar/' [name='eliminar_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/' [name='ver_carrito']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/agregar/<int:id>/' [name='agregar_al_carrito']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/eliminar/<int:id>/' [name='eliminar_del_carrito']>], [<URLResolver <module 'autenticacion.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\autenticacion\\urls.py'> (None:None) 'auth/'>]], 'path': 'favicon.ico'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <URLPattern list> (admin:admin) 'admin/'>
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\base.py", line 313, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\urls\resolvers.py", line 702, in resolve
+    raise Resolver404({"tried": tried, "path": new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLResolver <module 'usuarios.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\usuarios\\urls.py'> (None:None) 'usuarios/'>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) 'tienda/'>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'registro/' [name='registro']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '' [name='lista_videojuegos']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/' [name='detalle_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'nuevo/' [name='nuevo_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/editar/' [name='editar_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/eliminar/' [name='eliminar_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/' [name='ver_carrito']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/agregar/<int:id>/' [name='agregar_al_carrito']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/eliminar/<int:id>/' [name='eliminar_del_carrito']>], [<URLResolver <module 'autenticacion.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\autenticacion\\urls.py'> (None:None) 'auth/'>]], 'path': 'favicon.ico'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <module 'usuarios.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\usuarios\\urls.py'> (None:None) 'usuarios/'>
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\base.py", line 313, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\urls\resolvers.py", line 702, in resolve
+    raise Resolver404({"tried": tried, "path": new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLResolver <module 'usuarios.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\usuarios\\urls.py'> (None:None) 'usuarios/'>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) 'tienda/'>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'registro/' [name='registro']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '' [name='lista_videojuegos']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/' [name='detalle_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'nuevo/' [name='nuevo_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/editar/' [name='editar_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/eliminar/' [name='eliminar_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/' [name='ver_carrito']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/agregar/<int:id>/' [name='agregar_al_carrito']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/eliminar/<int:id>/' [name='eliminar_del_carrito']>], [<URLResolver <module 'autenticacion.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\autenticacion\\urls.py'> (None:None) 'auth/'>]], 'path': 'favicon.ico'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) 'tienda/'>
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\base.py", line 313, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\urls\resolvers.py", line 702, in resolve
+    raise Resolver404({"tried": tried, "path": new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLResolver <module 'usuarios.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\usuarios\\urls.py'> (None:None) 'usuarios/'>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) 'tienda/'>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'registro/' [name='registro']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '' [name='lista_videojuegos']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/' [name='detalle_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'nuevo/' [name='nuevo_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/editar/' [name='editar_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/eliminar/' [name='eliminar_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/' [name='ver_carrito']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/agregar/<int:id>/' [name='agregar_al_carrito']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/eliminar/<int:id>/' [name='eliminar_del_carrito']>], [<URLResolver <module 'autenticacion.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\autenticacion\\urls.py'> (None:None) 'auth/'>]], 'path': 'favicon.ico'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <module 'autenticacion.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\autenticacion\\urls.py'> (None:None) 'auth/'>
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 4126
+(0.000) SELECT "tienda_videojuego"."id", "tienda_videojuego"."nombre", "tienda_videojuego"."descripcion", "tienda_videojuego"."precio", "tienda_videojuego"."desarrollador", "tienda_videojuego"."editor", "tienda_videojuego"."imagen", "tienda_videojuego"."fecha_lanzamiento" FROM "tienda_videojuego"; args=(); alias=default
+"GET / HTTP/1.1" 200 288
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\base.py", line 313, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\urls\resolvers.py", line 702, in resolve
+    raise Resolver404({"tried": tried, "path": new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLResolver <module 'usuarios.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\usuarios\\urls.py'> (None:None) 'usuarios/'>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) 'tienda/'>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'registro/' [name='registro']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '' [name='lista_videojuegos']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/' [name='detalle_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'nuevo/' [name='nuevo_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/editar/' [name='editar_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/eliminar/' [name='eliminar_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/' [name='ver_carrito']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/agregar/<int:id>/' [name='agregar_al_carrito']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/eliminar/<int:id>/' [name='eliminar_del_carrito']>], [<URLResolver <module 'autenticacion.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\autenticacion\\urls.py'> (None:None) 'auth/'>]], 'path': 'Static/img/fondo8.1.jpg'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <URLPattern list> (admin:admin) 'admin/'>
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\base.py", line 313, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\urls\resolvers.py", line 702, in resolve
+    raise Resolver404({"tried": tried, "path": new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLResolver <module 'usuarios.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\usuarios\\urls.py'> (None:None) 'usuarios/'>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) 'tienda/'>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'registro/' [name='registro']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '' [name='lista_videojuegos']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/' [name='detalle_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'nuevo/' [name='nuevo_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/editar/' [name='editar_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/eliminar/' [name='eliminar_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/' [name='ver_carrito']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/agregar/<int:id>/' [name='agregar_al_carrito']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/eliminar/<int:id>/' [name='eliminar_del_carrito']>], [<URLResolver <module 'autenticacion.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\autenticacion\\urls.py'> (None:None) 'auth/'>]], 'path': 'Static/img/fondo8.1.jpg'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <module 'usuarios.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\usuarios\\urls.py'> (None:None) 'usuarios/'>
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\base.py", line 313, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\urls\resolvers.py", line 702, in resolve
+    raise Resolver404({"tried": tried, "path": new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLResolver <module 'usuarios.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\usuarios\\urls.py'> (None:None) 'usuarios/'>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) 'tienda/'>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'registro/' [name='registro']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '' [name='lista_videojuegos']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/' [name='detalle_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'nuevo/' [name='nuevo_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/editar/' [name='editar_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/eliminar/' [name='eliminar_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/' [name='ver_carrito']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/agregar/<int:id>/' [name='agregar_al_carrito']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/eliminar/<int:id>/' [name='eliminar_del_carrito']>], [<URLResolver <module 'autenticacion.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\autenticacion\\urls.py'> (None:None) 'auth/'>]], 'path': 'Static/img/fondo8.1.jpg'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) 'tienda/'>
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\base.py", line 313, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\urls\resolvers.py", line 702, in resolve
+    raise Resolver404({"tried": tried, "path": new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLResolver <module 'usuarios.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\usuarios\\urls.py'> (None:None) 'usuarios/'>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) 'tienda/'>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'registro/' [name='registro']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '' [name='lista_videojuegos']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/' [name='detalle_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'nuevo/' [name='nuevo_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/editar/' [name='editar_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/eliminar/' [name='eliminar_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/' [name='ver_carrito']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/agregar/<int:id>/' [name='agregar_al_carrito']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/eliminar/<int:id>/' [name='eliminar_del_carrito']>], [<URLResolver <module 'autenticacion.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\autenticacion\\urls.py'> (None:None) 'auth/'>]], 'path': 'Static/img/fondo8.1.jpg'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <module 'autenticacion.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\autenticacion\\urls.py'> (None:None) 'auth/'>
+Not Found: /Static/img/fondo8.1.jpg
+"GET /Static/img/fondo8.1.jpg HTTP/1.1" 404 4162
+(0.000) SELECT "tienda_videojuego"."id", "tienda_videojuego"."nombre", "tienda_videojuego"."descripcion", "tienda_videojuego"."precio", "tienda_videojuego"."desarrollador", "tienda_videojuego"."editor", "tienda_videojuego"."imagen", "tienda_videojuego"."fecha_lanzamiento" FROM "tienda_videojuego"; args=(); alias=default
+"GET /tienda/ HTTP/1.1" 200 288
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\base.py", line 313, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\urls\resolvers.py", line 702, in resolve
+    raise Resolver404({"tried": tried, "path": new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLResolver <module 'usuarios.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\usuarios\\urls.py'> (None:None) 'usuarios/'>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) 'tienda/'>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'registro/' [name='registro']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '' [name='lista_videojuegos']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/' [name='detalle_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'nuevo/' [name='nuevo_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/editar/' [name='editar_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/eliminar/' [name='eliminar_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/' [name='ver_carrito']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/agregar/<int:id>/' [name='agregar_al_carrito']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/eliminar/<int:id>/' [name='eliminar_del_carrito']>], [<URLResolver <module 'autenticacion.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\autenticacion\\urls.py'> (None:None) 'auth/'>]], 'path': 'Static/img/fondo8.1.jpg'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <URLPattern list> (admin:admin) 'admin/'>
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\base.py", line 313, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\urls\resolvers.py", line 702, in resolve
+    raise Resolver404({"tried": tried, "path": new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLResolver <module 'usuarios.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\usuarios\\urls.py'> (None:None) 'usuarios/'>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) 'tienda/'>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'registro/' [name='registro']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '' [name='lista_videojuegos']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/' [name='detalle_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'nuevo/' [name='nuevo_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/editar/' [name='editar_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/eliminar/' [name='eliminar_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/' [name='ver_carrito']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/agregar/<int:id>/' [name='agregar_al_carrito']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/eliminar/<int:id>/' [name='eliminar_del_carrito']>], [<URLResolver <module 'autenticacion.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\autenticacion\\urls.py'> (None:None) 'auth/'>]], 'path': 'Static/img/fondo8.1.jpg'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <module 'usuarios.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\usuarios\\urls.py'> (None:None) 'usuarios/'>
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\base.py", line 313, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\urls\resolvers.py", line 702, in resolve
+    raise Resolver404({"tried": tried, "path": new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLResolver <module 'usuarios.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\usuarios\\urls.py'> (None:None) 'usuarios/'>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) 'tienda/'>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'registro/' [name='registro']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '' [name='lista_videojuegos']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/' [name='detalle_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'nuevo/' [name='nuevo_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/editar/' [name='editar_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/eliminar/' [name='eliminar_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/' [name='ver_carrito']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/agregar/<int:id>/' [name='agregar_al_carrito']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/eliminar/<int:id>/' [name='eliminar_del_carrito']>], [<URLResolver <module 'autenticacion.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\autenticacion\\urls.py'> (None:None) 'auth/'>]], 'path': 'Static/img/fondo8.1.jpg'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) 'tienda/'>
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\base.py", line 313, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\urls\resolvers.py", line 702, in resolve
+    raise Resolver404({"tried": tried, "path": new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLResolver <module 'usuarios.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\usuarios\\urls.py'> (None:None) 'usuarios/'>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) 'tienda/'>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'registro/' [name='registro']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '' [name='lista_videojuegos']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/' [name='detalle_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'nuevo/' [name='nuevo_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/editar/' [name='editar_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/eliminar/' [name='eliminar_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/' [name='ver_carrito']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/agregar/<int:id>/' [name='agregar_al_carrito']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/eliminar/<int:id>/' [name='eliminar_del_carrito']>], [<URLResolver <module 'autenticacion.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\autenticacion\\urls.py'> (None:None) 'auth/'>]], 'path': 'Static/img/fondo8.1.jpg'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <module 'autenticacion.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\autenticacion\\urls.py'> (None:None) 'auth/'>
+Not Found: /Static/img/fondo8.1.jpg
+"GET /Static/img/fondo8.1.jpg HTTP/1.1" 404 4162
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\base.py", line 313, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\urls\resolvers.py", line 702, in resolve
+    raise Resolver404({"tried": tried, "path": new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLResolver <module 'usuarios.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\usuarios\\urls.py'> (None:None) 'usuarios/'>, <URLPattern 'register/' [name='register']>], [<URLResolver <module 'usuarios.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\usuarios\\urls.py'> (None:None) 'usuarios/'>, <URLPattern 'profile/<int:user_id>/' [name='profile']>], [<URLResolver <module 'usuarios.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\usuarios\\urls.py'> (None:None) 'usuarios/'>, <URLPattern 'edit_profile/' [name='edit_profile']>], [<URLResolver <module 'usuarios.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\usuarios\\urls.py'> (None:None) 'usuarios/'>, <URLPattern 'delete_user/' [name='delete_user']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) 'tienda/'>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'registro/' [name='registro']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '' [name='lista_videojuegos']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/' [name='detalle_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'nuevo/' [name='nuevo_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/editar/' [name='editar_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/eliminar/' [name='eliminar_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/' [name='ver_carrito']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/agregar/<int:id>/' [name='agregar_al_carrito']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/eliminar/<int:id>/' [name='eliminar_del_carrito']>], [<URLResolver <module 'autenticacion.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\autenticacion\\urls.py'> (None:None) 'auth/'>]], 'path': 'usuarios/'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <URLPattern list> (admin:admin) 'admin/'>
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\base.py", line 313, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\urls\resolvers.py", line 702, in resolve
+    raise Resolver404({"tried": tried, "path": new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLResolver <module 'usuarios.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\usuarios\\urls.py'> (None:None) 'usuarios/'>, <URLPattern 'register/' [name='register']>], [<URLResolver <module 'usuarios.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\usuarios\\urls.py'> (None:None) 'usuarios/'>, <URLPattern 'profile/<int:user_id>/' [name='profile']>], [<URLResolver <module 'usuarios.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\usuarios\\urls.py'> (None:None) 'usuarios/'>, <URLPattern 'edit_profile/' [name='edit_profile']>], [<URLResolver <module 'usuarios.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\usuarios\\urls.py'> (None:None) 'usuarios/'>, <URLPattern 'delete_user/' [name='delete_user']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) 'tienda/'>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'registro/' [name='registro']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '' [name='lista_videojuegos']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/' [name='detalle_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'nuevo/' [name='nuevo_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/editar/' [name='editar_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/eliminar/' [name='eliminar_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/' [name='ver_carrito']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/agregar/<int:id>/' [name='agregar_al_carrito']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/eliminar/<int:id>/' [name='eliminar_del_carrito']>], [<URLResolver <module 'autenticacion.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\autenticacion\\urls.py'> (None:None) 'auth/'>]], 'path': 'usuarios/'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) 'tienda/'>
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\core\handlers\base.py", line 313, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\urls\resolvers.py", line 702, in resolve
+    raise Resolver404({"tried": tried, "path": new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLResolver <module 'usuarios.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\usuarios\\urls.py'> (None:None) 'usuarios/'>, <URLPattern 'register/' [name='register']>], [<URLResolver <module 'usuarios.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\usuarios\\urls.py'> (None:None) 'usuarios/'>, <URLPattern 'profile/<int:user_id>/' [name='profile']>], [<URLResolver <module 'usuarios.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\usuarios\\urls.py'> (None:None) 'usuarios/'>, <URLPattern 'edit_profile/' [name='edit_profile']>], [<URLResolver <module 'usuarios.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\usuarios\\urls.py'> (None:None) 'usuarios/'>, <URLPattern 'delete_user/' [name='delete_user']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) 'tienda/'>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'registro/' [name='registro']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '' [name='lista_videojuegos']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/' [name='detalle_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'nuevo/' [name='nuevo_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/editar/' [name='editar_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern '<int:id>/eliminar/' [name='eliminar_videojuego']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/' [name='ver_carrito']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/agregar/<int:id>/' [name='agregar_al_carrito']>], [<URLResolver <module 'tienda.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\tienda\\urls.py'> (None:None) ''>, <URLPattern 'carrito/eliminar/<int:id>/' [name='eliminar_del_carrito']>], [<URLResolver <module 'autenticacion.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\autenticacion\\urls.py'> (None:None) 'auth/'>]], 'path': 'usuarios/'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\WorkSpaces\Proyecto Semestral\myvenv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <module 'autenticacion.urls' from 'C:\\Program Files (x86)\\WorkSpaces\\Proyecto Semestral\\autenticacion\\urls.py'> (None:None) 'auth/'>
+Not Found: /usuarios/
+"GET /usuarios/ HTTP/1.1" 404 4771
