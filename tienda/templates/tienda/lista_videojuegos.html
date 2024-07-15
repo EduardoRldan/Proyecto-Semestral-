@@ -3,7 +3,6 @@
 <head>
     <title>Lista de Videojuegos</title>
     {% load static %}
-    <link rel="stylesheet" href="{% static 'css/juegos.css' %}">
 </head>
 <body>
     <h1>Lista de Videojuegos</h1>
@@ -12,7 +11,6 @@
             <li>
                 <a href="{% url 'detalle_videojuego' videojuego.id %}">{{ videojuego.nombre }}</a>
             </li>
-        {% empty %}
             <li>No hay videojuegos disponibles.</li>
         {% endfor %}
     </ul>

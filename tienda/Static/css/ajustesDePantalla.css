@@ -1,0 +1,41 @@
+/* Ajuste min para celular */
+@media (min-width: 576px) {
+  .custom-class {
+
+  }
+}
+
+/* Ajuste min para tablet */
+@media (min-width: 768px) {
+  .custom-class {
+
+  }
+}
+
+/* Ajuste min para computador de escritorio */
+@media (min-width: 992px) {
+  .custom-class {
+
+  }
+}
+
+/* Ajuste max para celular */
+@media (max-width: 576px) {
+  .custom-class {
+
+  }
+}
+
+/* Ajuste max para tablet */
+@media (max-width: 768px) {
+  .custom-class {
+
+  }
+}
+
+/* Ajuste max para computador de escritorio */
+@media (max-width: 992px) {
+  .custom-class {
+
+  }
+}

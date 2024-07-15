@@ -87,3 +87,9 @@ def eliminar_del_carrito(request, id):
         item.delete()
         return redirect('ver_carrito')
     return render(request, 'tienda/eliminar_del_carrito.html', {'item': item})
+
+def error (request):
+    return render(request, 'tienda/error.html')
+
+def megaJuegos(request):
+    return render(request, 'tienda/Juegos.html')
