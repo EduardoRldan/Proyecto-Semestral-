@@ -1,3 +1,4 @@
+import logging
 from django.shortcuts import render, redirect, get_object_or_404
 from django.contrib.auth.decorators import login_required
 from django.contrib.auth.models import User
@@ -5,6 +6,9 @@ from django.contrib.auth import login, authenticate
 from django.contrib.auth.forms import UserCreationForm
 from .models import Videojuego, Carrito, CarritoItem
 from .forms import VideojuegoForm
+
+logger = logging.getLogger(__name__)
+
 
 def registro(request):
     if request.method == 'POST':
@@ -19,9 +23,13 @@ def registro(request):
     return render(request, 'tienda/registro.html', {'form': form})
 
 def lista_videojuegos(request):
-    videojuegos = Videojuego.objects.all()
-    return render(request, 'tienda/lista_videojuegos.html', {'videojuegos': videojuegos})
-
+    try:
+        videojuegos = Videojuego.objects.all()
+        return render(request, 'lista_videojuegos.html', {'videojuegos': videojuegos})
+    except Exception as e:
+        # Esto capturará errores en la vista y te permitirá ver el error
+        return render(request, 'error.html', {'error': str(e)})
+    
 def detalle_videojuego(request, id):
     videojuego = get_object_or_404(Videojuego, id=id)
     return render(request, 'tienda/detalle_videojuego.html', {'videojuego': videojuego})
@@ -57,7 +65,7 @@ def eliminar_videojuego(request, id):
         return redirect('lista_videojuegos')
     return render(request, 'tienda/eliminar_videojuego.html', {'videojuego': videojuego})
 
-@login_required
+
 def agregar_al_carrito(request, id):
     videojuego = get_object_or_404(Videojuego, id=id)
     carrito, created = Carrito.objects.get_or_create(usuario=request.user)
@@ -66,13 +74,12 @@ def agregar_al_carrito(request, id):
     carrito_item.save()
     return redirect('ver_carrito')
 
-@login_required
 def ver_carrito(request):
     carrito = get_object_or_404(Carrito, usuario=request.user)
     items = CarritoItem.objects.filter(carrito=carrito)
     return render(request, 'tienda/ver_carrito.html', {'items': items})
 
-@login_required
+
 def eliminar_del_carrito(request, id):
     carrito = get_object_or_404(Carrito, usuario=request.user)
     item = get_object_or_404(CarritoItem, carrito=carrito, id=id)
